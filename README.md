@@ -87,6 +87,6 @@ Acest proiect combină robotică, electronică și programare pentru a crea un r
 
 <!-- Încarcă video-ul tău în repo, în folderul 'videos', apoi pune link-ul aici -->
 
-[![Video Demo](videos/preview.jpg)](videos/marinicademo.mov)
+[![Video Demo](videos/preview.jpg)](marinicademo-2-2-2-2.mov)
 
 *(Click pe imagine pentru a vedea video-ul)*
