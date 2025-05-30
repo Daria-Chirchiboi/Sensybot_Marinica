@@ -46,7 +46,8 @@ Acest proiect combină robotică, electronică și programare pentru a crea un r
 | [40 Fire Dupont 20cm Mama-Mama](https://sigmanortec.ro/40-Fire-Dupont-20cm-Mama-Mama-p166528315) | Cablare | 12 RON |
 | [Modul MP3 Player DFPlayer Mini](https://ardushop.ro/ro/module/1473-modul-mp3-player-dfplayer-mini-6427854021755.html?gad_source=1&gad_campaignid=22058879462&gclid=CjwKCAjw24vBBhABEiwANFG7yxlp13zlUpmcgfizUjk4fZ9te46kDDH0UlXyVcytCSXZWNLtkp91XhoCW3UQAvD_BwE) | Redare sunet | 45 RON |
 | [Modul senzor ultrasonic HC-SR04](https://ardushop.ro/ro/electronica/2289-modul-senzor-ultrasonic-detector-distanta-hc-sr04-6427854030726.html) | Detectare proximitate | 15 RON |
-
+| [Card memorie SD]
+| [Alimentator 5V 2A]
 ---
 
 ### Libraries
